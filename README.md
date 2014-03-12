@@ -1,4 +1,6 @@
 Hibar
 =====
 
-Amazin' Android application. -- EXPECT US --
+Hi.
+
+Trying to make some awesome app or some tool.
